@@ -1,0 +1,11 @@
+{
+  "msg": [{ "type": "wasm/execute", "value": ["Object"] }],
+  "fee": { "amount": [["Object"]], "gas": "200000" },
+  "signatures": [
+    {
+      "pub_key": ["Object"],
+      "signature": "bjR5M7VFsfrj10pbfIsgYrUXs+20eEdFWpFIhvGwKqhyG+6A9I+u/Bm6O3tjcHLtteEHGRBJ4Cn3N3ZgYWMfJA=="
+    }
+  ],
+  "memo": "Buying my name"
+}

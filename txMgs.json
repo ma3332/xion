@@ -1,0 +1,9 @@
+{
+  "type": "wasm/execute",
+  "value": {
+    "sender": "cosmos1cwrsujnpz9a04q5eraqzlfm6dkgln6r05pyfmx",
+    "contract": "cosmos1vjecguu37pmd577339wrdp208ddzymkudc46zj",
+    "msg": { "register": ["Object"] },
+    "sent_funds": []
+  }
+}
